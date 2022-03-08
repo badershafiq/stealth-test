@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444184637140",
+    "firebase_url": "https://stealth-learning-default-rtdb.firebaseio.com",
+    "project_id": "stealth-learning",
+    "storage_bucket": "stealth-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444184637140:android:42bfa0399ae0ec917f1541",
+        "android_client_info": {
+          "package_name": "com.stealth.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444184637140-8gtj4g0heshcn77fl28lmr280ug3j45f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3P7l_oV93RONgBbyaBAGCn07zF-NfqIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444184637140-8gtj4g0heshcn77fl28lmr280ug3j45f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444184637140-892ugkk1gkk41cepme81m4aupv6q5a9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stealth.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
