@@ -28,12 +28,10 @@ const styles = StyleSheet.create({
   },
   question: {
     color: COLORS.primary,
-    fontFamily: "Cochin",
     fontSize: 22,
   },
   selected: {
     color: COLORS.primary,
-    fontFamily: "Cochin",
     fontSize: 22,
     fontWeight: "700",
     textDecorationLine: "underline",

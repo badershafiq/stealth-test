@@ -33,7 +33,6 @@ const styles = StyleSheet.create({
   },
   continueText: {
     color: COLORS.primary,
-    fontFamily: "Cochin",
     fontSize: 22,
     fontWeight: "700",
   },

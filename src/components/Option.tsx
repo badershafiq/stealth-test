@@ -38,7 +38,6 @@ const styles = StyleSheet.create({
   option: {
     color: COLORS.background,
     padding: "10%",
-    fontFamily: "Cochin",
     fontSize: 16,
     fontWeight: "700",
     textAlign: "center",

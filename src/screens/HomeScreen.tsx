@@ -111,7 +111,6 @@ const styles = StyleSheet.create({
   },
   header: {
     color: COLORS.primary,
-    fontFamily: "Cochin",
     fontSize: 22,
     marginTop: "5%",
   },
@@ -135,7 +134,6 @@ const styles = StyleSheet.create({
     padding: "10%",
   },
   result: {
-    fontFamily: "Cochin",
     fontSize: 22,
     fontWeight: "700",
   },

@@ -20,7 +20,6 @@ const styles = StyleSheet.create({
   },
   header: {
     color: COLORS.primary,
-    fontFamily: "Cochin",
     fontSize: 28,
     fontWeight: "700",
   },
